@@ -1,6 +1,6 @@
 contacts = []
 
-contacts = []  # This should be global or passed around
+contacts = []  
 
 def add_contact():
     name = input("Enter name: ")
